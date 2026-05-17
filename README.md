@@ -278,7 +278,7 @@ Python 3.14 supported for classical ML only (TensorFlow not yet available)
 1 · Clone the repository
 Bash
 
-git clone https://github.com/YOUR-USERNAME/amazon-sentiment-analysis.git
+git clone https://github.com/Saket0912/amazon-sentiment-analysis.git
 cd amazon-sentiment-analysis
 2 · Create virtual environment
 Bash
@@ -363,7 +363,7 @@ Planned Improvements
  FastAPI endpoint — REST API for real-time review scoring
  Streamlit dashboard — interactive visualisation and live prediction
 👤 Author
-<table> <tr> <td align="center"> <strong>Your Name</strong><br> <a href="https://linkedin.com/in/YOUR-PROFILE"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/YOUR-USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" /> </a> </td> </tr> </table>
+<table> <tr> <td align="center"> <strong>Saket Verma</strong><br> <a href="https://linkedin.com/in/saket-verma-3b337a1a7"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/YOUR-USERNAME"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" /> </a> </td> </tr> </table>
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
